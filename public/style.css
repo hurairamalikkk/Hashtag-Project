@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:ital,wght@1,200&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:ital,wght@1,200&display=swap');
@@ -9,7 +10,7 @@
 }
 /*fonts */
 --primary-font:Quicksand;
---secondary-font:'Poppins', sans-serif;
+--secondary-font:poppins;
 --normal-font-weight: 400;
 --bold-font-weight: 700;
 body{
